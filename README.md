@@ -100,10 +100,19 @@ keeper-app/
 👉 Add your screenshots here:
 
 ```markdown
+## 📸 Screenshots
+
+### 🏠 Home Screen
 ![Home Screen](./images/Start.png)
+
+### ➕ Add Note
 ![Add Note](./images/add.png)
-![Home Screen](./images/add2.png)
-![Add Note](./images/add1.png)
+
+### 📝 Notes View
+![Notes](./images/add1.png)
+
+### 📌 Expanded Input
+![Expanded](./images/add2.png))
 ```
 
 > 📌 Create a `screenshots` folder and add images
