@@ -103,11 +103,12 @@ keeper-app/
 ### ➕ Add Note
 ![Add Note](./images/add.png)
 
-### 📝 Notes View
-![Notes](./images/add1.png)
-
-### 📌 Expanded Input
+### 📝 Add One More Note View
 ![Expanded](./images/add2.png)
+
+
+### 📌 Deleted Input
+![Notes](./images/add1.png)
 
 ---
 
