@@ -95,11 +95,6 @@ keeper-app/
 
 ---
 
-## 🧾 Input Screen (Screenshots)
-
-👉 Add your screenshots here:
-
-```markdown
 ## 📸 Screenshots
 
 ### 🏠 Home Screen
@@ -112,10 +107,7 @@ keeper-app/
 ![Notes](./images/add1.png)
 
 ### 📌 Expanded Input
-![Expanded](./images/add2.png))
-```
-
-> 📌 Create a `screenshots` folder and add images
+![Expanded](./images/add2.png)
 
 ---
 
